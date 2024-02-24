@@ -10,6 +10,9 @@ I am an intermediate developer with 5 years of experience in web development and
         <img src="https://github.com/rohansharma-developer/rohansharma-developer/assets/107614947/96a6fa05-fa77-4513-b00b-5d0d32d792ea" height=50>
     </a>
 </p>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=rohansharma-developer&label=Profile%20Visits&color=blue&style=for-the-badge">
+</p>
 <hr>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
