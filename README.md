@@ -18,6 +18,6 @@ I am an intermediate developer with 5 years of experience in web development and
 </p>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohansharma-developer&layout=compact&theme=blueberry&card_width=500">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohansharma-developer&layout=compact&theme=blueberry&card_width=500&hide=Hack">
     </a>
 </p>
