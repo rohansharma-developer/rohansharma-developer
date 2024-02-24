@@ -1,5 +1,6 @@
-<style>
-  @import url(https://fonts.googleapis.com/css?family=Open+Sans:700,300);
+<foreignObject width="100%" height="100%">
+  <style>
+    @import url(https://fonts.googleapis.com/css?family=Open+Sans:700,300);
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -1381,8 +1382,125 @@ input[name='set-value']:checked ~ .content article .chart .bar.bar-1-1 .face.sid
   content: '85';
 }
 
-</style>
-
+    </style>
+  <div class="container">
+  <header>
+    <h1>Pure <strong>CSS</strong> Bars</h1>
+    <p>...a growing bars chart.</p>
+  </header>
+  <div class="chart small-font-size">
+    <div class="bar bar-60 yellow">
+      <div class="face side-0">
+        <div class="growing-bar"></div>
+      </div>
+      <div class="face side-1">
+        <div class="growing-bar"></div>
+      </div>
+      <div class="face top"></div>
+      <div class="face floor"></div>
+    </div>
+    <div class="bar bar-25 red">
+      <div class="face side-0">
+        <div class="growing-bar"></div>
+      </div>
+      <div class="face side-1">
+        <div class="growing-bar"></div>
+      </div>
+      <div class="face top"></div>
+      <div class="face floor"></div>
+    </div>
+    <div class="bar bar-35 cyan">
+      <div class="face side-0">
+        <div class="growing-bar"></div>
+      </div>
+      <div class="face side-1">
+        <div class="growing-bar"></div>
+      </div>
+      <div class="face top"></div>
+      <div class="face floor"></div>
+    </div>
+    <div class="bar bar-80 lime">
+      <div class="face side-0">
+        <div class="growing-bar"></div>
+      </div>
+      <div class="face side-1">
+        <div class="growing-bar"></div>
+      </div>
+      <div class="face top"></div>
+      <div class="face floor"></div>
+    </div>
+  </div>
+  <p>Enjoy these Pure <em>CSS</em> Bars, crafted with <em>love</em> and 'ready-to-use'.</p>
+  <div>
+    <input type="radio" name="status" id="status-1" checked>
+    <section class="content">
+      <article>
+        <p>The bar dimensions are based on <em>'em' units</em>, you can <em>resize them with a simple 'font-size'</em> property :)</p>
+        <input type="checkbox" id="double-size" />
+        <div class="chart small-font-size">
+          <div class="bar bar-0 yellow">
+            <div class="face side-0">
+              <div class="growing-bar"></div>
+            </div>
+            <div class="face side-1">
+              <div class="growing-bar"></div>
+            </div>
+            <div class="face top"></div>
+            <div class="face floor"></div>
+          </div>
+        </div>
+        <label for="double-size">Double size</label>
+      </article>
+    </section>
+    <input type="checkbox" id="set-value" name="set-value" />
+    <input type="radio" name="status" id="status-2">
+    <section class="content">
+      <article>
+        <p>To set an animated position use the <em>'bar-n' class</em>, setting <em>the 'n' class parameter</em> form 1 to 100 values.</p>
+        <div class="chart small-font-size">
+          <div class="bar bar-1 lime">
+            <div class="face side-0">
+              <div class="growing-bar"></div>
+            </div>
+            <div class="face side-1">
+              <div class="growing-bar"></div>
+            </div>
+            <div class="face top"></div>
+            <div class="face floor"></div>
+          </div>
+          <div class="bar bar-1-1 cyan">
+            <div class="face side-0">
+              <div class="growing-bar"></div>
+            </div>
+            <div class="face side-1">
+              <div class="growing-bar"></div>
+            </div>
+            <div class="face top"></div>
+            <div class="face floor"></div>
+          </div>
+        </div>
+        <label for="set-value">Set value '85'</label>
+      </article>
+    </section>
+    <input type="radio" name="status" id="status-3">
+    <section class="content">
+      <article>
+        <p>Each bar is a <em>'flexbox item'</em>, so feel free to add as many as you want. Give them a bit of color too, with the custom color classes.</p>
+        <div class="chart small-font-size">
+          <div class="bar bar-0 lime">
+            <div class="face side-0">
+              <div class="growing-bar"></div>
+            </div>
+            <div class="face side-1">
+              <div class="growing-bar"></div>
+            </div>
+            <div class="face top"></div>
+            <div class="face floor"></div>
+          </div>
+          <div class="bar bar-2 cyan">
+            <div class="face side-0">
+              <div class="growing-bar"></div>
+            </div>
             <div class="face side-1">
               <div class="growing-bar"></div>
             </div>
@@ -1409,3 +1527,4 @@ input[name='set-value']:checked ~ .content article .chart .bar.bar-1-1 .face.sid
     </nav>
   </div>
 </div> 
+</foreignObject>
