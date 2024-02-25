@@ -1,4 +1,4 @@
-<a href="https://discord.gg/TQXTaCT45t">
+<a href="https://discord.gg/TQXTaCT45t" target="_blank">
 <img src="Add a subheading.gif">
 </a>
 <p align="center">
