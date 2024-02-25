@@ -1,5 +1,6 @@
-![image](https://github.com/rohansharma-developer/rohansharma-developer/assets/107614947/e725424e-2f36-46c1-bbe2-737b6539e940)
-
+<a href="https://discord.gg/TQXTaCT45t">
+<img src="Add a subheading.gif">
+</a>
 <p align="center">
 I am an intermediate developer with 5 years of experience in web development and graphic design. I am a master at producing images, graphics, videos, or animation for the creation of stunning and cutting-edge websites. I have expertise setting up servers, including game servers, and I am a seasoned Linux user. I'm always excited to learn new things! Want to collaborate with me? Email me at rohansharma.developer@skiff.com!
 </p>
