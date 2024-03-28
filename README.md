@@ -1,4 +1,4 @@
-[![An image of @rohansharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohansharma)]()
+[![An image of @rohansharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohansharma)](https://holopin.io/@rohansharma)
 
 <p align="center">
 I am an intermediate developer with 5 years of experience in web development and graphic design. I am a master at producing images, graphics, videos, or animation for the creation of stunning and cutting-edge websites. I have expertise setting up servers, including game servers, and I am a seasoned Linux user. I'm always excited to learn new things! Want to collaborate with me? Email me at rohansharma.developer@skiff.com!
