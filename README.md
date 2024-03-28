@@ -17,7 +17,7 @@ I am an intermediate developer with 5 years of experience in web development and
 <h1 align="center">Projects</h1>
 <a href="https://github.com/rohansharma-developer/CutefishOS-Web"><img src="https://github.com/rohansharma-developer/CutefishOS-Web/assets/107614947/c203c76a-9ca0-4e6f-acf6-7f33e4ec7a7d" width="49.5%"></a>
 <a href="https://rohansharma-developer.github.io/cosma/"><img src="https://github.com/rohansharma-developer/rohansharma-developer/assets/107614947/15c13952-72e5-4789-b115-8e83cb49948d" width="49.5%"></a>
-<a href="https://senarc.net"><img src="https://github.com/rohansharma-developer/rohansharma-developer/assets/107614947/f27d4f67-7371-4e9b-929d-0d0c2e2a4a2b" width="49.5%"></a>
+<a href="https://rohansharma-developer.github.io/Senarc_Website/"><img src="https://github.com/rohansharma-developer/rohansharma-developer/assets/107614947/f27d4f67-7371-4e9b-929d-0d0c2e2a4a2b" width="49.5%"></a>
 <a href="https://mismeerut.com"><img src="https://github.com/rohansharma-developer/rohansharma-developer/assets/107614947/f8f2ae51-c8e6-49f3-a095-bdce62b38ef9" width="49.5%"></a>
 </p>
 <p align="center">
